@@ -7,7 +7,7 @@
    <img src="https://awesome.re/badge-flat.svg" alt="Awesome">
   </a>
   <p>
-   A collection of amazingly awesome components.
+   💅 A collection of amazingly awesome components.
   </p>
  </div>
 </div>
