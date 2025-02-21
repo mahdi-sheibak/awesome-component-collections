@@ -13,7 +13,7 @@
 
 <h1></h1>
 
-<a href="https://kokonutui.com" style="display:flex;gap:10px;align-items:center">
-   <img src="https://kokonutui.com/logo.svg" alt="kokonutui" />
-   Kokonut UI
+<a href="https://kokonutui.com">
+   <img src="https://kokonutui.com/logo.svg" alt="kokonutui" width="32" height="32" />
+   <span>Kokonut UI</span>
 </a>
