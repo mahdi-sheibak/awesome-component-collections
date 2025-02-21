@@ -30,5 +30,77 @@
     "name": "reactbits",
     "repo": "https://github.com/DavidHDev/react-bits",
     "website": "https://www.reactbits.dev/"
+  },
+  {
+    "description": "Vue port of shadcn-ui",
+    "logoURL": "https://avatars.githubusercontent.com/u/137486839",
+    "longName": "Shadcn Vue",
+    "name": "shadcn-vue",
+    "repo": "https://github.com/unovue/shadcn-vue",
+    "website": "https://www.shadcn-vue.com/"
+  },
+  {
+    "description": "shadcn/ui, but for Svelte. ✨",
+    "logoURL": "https://raw.githubusercontent.com/huntabyte/shadcn-svelte/main/sites/docs/static/android-chrome-192x192.png",
+    "longName": "Shadcn Svelte",
+    "name": "shadcn-svelte",
+    "repo": "https://github.com/huntabyte/shadcn-svelte",
+    "website": "https://shadcn-svelte.com/"
+  },
+  {
+    "description": "UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.",
+    "logoURL": "https://avatars.githubusercontent.com/u/14288396",
+    "longName": "Motion Primitives",
+    "name": "motion-primitives",
+    "repo": "https://github.com/ibelick/motion-primitives",
+    "website": "https://motion-primitives.com/"
+  },
+  {
+    "description": "Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.",
+    "logoURL": "https://github.com/user-attachments/assets/39ad7b92-4696-44be-9079-f38ed06d80c5",
+    "longName": "Eldora UI",
+    "name": "eldoraui",
+    "repo": "https://github.com/karthikmudunuri/eldoraui",
+    "website": "https://www.eldoraui.site/"
+  },
+  {
+    "description": "shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+    "logoURL": "https://avatars.githubusercontent.com/u/5064896",
+    "longName": "Jolly UI",
+    "name": "jolly-ui",
+    "repo": "https://github.com/jolbol1/jolly-ui",
+    "website": "https://www.jollyui.dev/"
+  },
+  {
+    "description": "Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.",
+    "logoURL": "https://avatars.githubusercontent.com/u/1846056",
+    "longName": "Park UI",
+    "name": "park-ui",
+    "repo": "https://github.com/cschroeter/park-ui",
+    "website": "https://park-ui.com/"
+  },
+  {
+    "description": "A collection of simply designed React components focused on making web accessibility as easy as copy & paste.",
+    "logoURL": "https://draft-ui.com/draft_ui.svg",
+    "longName": "Draft UI",
+    "name": "draft-ui",
+    "repo": "https://github.com/IHIutch/draft-ui",
+    "website": "https://draft-ui.com/"
+  },
+  {
+    "description": "Justd is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.",
+    "logoURL": "https://getjustd.com/icon.svg",
+    "longName": "Justd",
+    "name": "justd",
+    "repo": "https://github.com/irsyadadl/justd",
+    "website": "https://getjustd.com/"
+  },
+  {
+    "description": "Beautiful, customizable components built with Base UI and Tailwind CSS.",
+    "logoURL": "https://raw.githubusercontent.com/borabaloglu/9ui/refs/heads/main/public/android-chrome-512x512.png",
+    "longName": "9 UI",
+    "name": "9ui",
+    "repo": "https://github.com/borabaloglu/9ui",
+    "website": "https://www.9ui.dev/"
   }
 ]

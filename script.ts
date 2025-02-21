@@ -26,11 +26,16 @@ for (const item of list) {
   finalContent += `
 <!-- ${item.name} -->
    <section>
-      <a href="${item.website}">
-         <img src="${item.logoURL}" alt="${item.name}" width="32" height="32" />
+      <a href="${item.repo}">
+         <img 
+          src="${item.logoURL}" 
+          alt="${item.name}" 
+          width="32" 
+          height="32"
+          />
       </a>
       <div>
-         <span>${item.longName} (<a href="${item.website}">${item.website}</a>)</span>
+         <span>${item.longName} [<a href="${item.repo}">repo</a>] (<a href="${item.website}">${item.website}</a>)</span>
          <p>
          ${item.description}
          </p>
