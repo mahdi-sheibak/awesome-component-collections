@@ -320,3 +320,98 @@
    </section>
    <br/>
    
+<!-- stunning-ui -->
+   <section>
+      <a href="https://github.com/xiaoluoboding/stunning-ui">
+         <img 
+          src="https://avatars.githubusercontent.com/u/6118824" 
+          alt="stunning-ui" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Stunning UI [<a href="https://github.com/xiaoluoboding/stunning-ui">repo</a>] (<a href="https://www.stunningui.design/">https://www.stunningui.design/</a>)</span>
+         <p>
+         💚 Stunning UI is a collection of interactive Tailwind CSS components built for Vue and Nuxt.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- nyxb ui -->
+   <section>
+      <a href="https://github.com/nyxb-ui">
+         <img 
+          src="https://avatars.githubusercontent.com/u/173634696" 
+          alt="nyxb ui" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Nyxb UI [<a href="https://github.com/nyxb-ui">repo</a>] (<a href="https://nyxbui.design/">https://nyxbui.design/</a>)</span>
+         <p>
+         Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces effortlessly. 100% open-source.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- cult-ui -->
+   <section>
+      <a href="https://github.com/nolly-studio/cult-ui">
+         <img 
+          src="https://avatars.githubusercontent.com/u/133936441" 
+          alt="cult-ui" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Cult UI [<a href="https://github.com/nolly-studio/cult-ui">repo</a>] (<a href="https://www.cult-ui.com/">https://www.cult-ui.com/</a>)</span>
+         <p>
+         Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- tremor -->
+   <section>
+      <a href="https://github.com/tremorlabs/tremor">
+         <img 
+          src="https://avatars.githubusercontent.com/u/97241560" 
+          alt="tremor" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Tremor [<a href="https://github.com/tremorlabs/tremor">repo</a>] (<a href="https://tremor.so/">https://tremor.so/</a>)</span>
+         <p>
+         Copy & Paste React components to build modern web applications.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- qwik-ui -->
+   <section>
+      <a href="https://github.com/qwikifiers/qwik-ui">
+         <img 
+          src="https://avatars.githubusercontent.com/u/108555840" 
+          alt="qwik-ui" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Qwik UI [<a href="https://github.com/qwikifiers/qwik-ui">repo</a>] (<a href="https://qwikui.com/">https://qwikui.com/</a>)</span>
+         <p>
+         
+         </p>
+      </div>
+   </section>
+   <br/>
+   

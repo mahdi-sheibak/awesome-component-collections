@@ -126,5 +126,45 @@
     "name": "plate",
     "repo": "https://github.com/udecode/plate",
     "website": "https://platejs.org/"
+  },
+  {
+    "description": "💚 Stunning UI is a collection of interactive Tailwind CSS components built for Vue and Nuxt.",
+    "logoURL": "https://avatars.githubusercontent.com/u/6118824",
+    "longName": "Stunning UI",
+    "name": "stunning-ui",
+    "repo": "https://github.com/xiaoluoboding/stunning-ui",
+    "website": "https://www.stunningui.design/"
+  },
+  {
+    "description": "Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces effortlessly. 100% open-source.",
+    "logoURL": "https://avatars.githubusercontent.com/u/173634696",
+    "longName": "Nyxb UI",
+    "name": "nyxb ui",
+    "repo": "https://github.com/nyxb-ui",
+    "website": "https://nyxbui.design/"
+  },
+  {
+    "description": "Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌",
+    "logoURL": "https://avatars.githubusercontent.com/u/133936441",
+    "longName": "Cult UI",
+    "name": "cult-ui",
+    "repo": "https://github.com/nolly-studio/cult-ui",
+    "website": "https://www.cult-ui.com/"
+  },
+  {
+    "description": "Copy & Paste React components to build modern web applications.",
+    "logoURL": "https://avatars.githubusercontent.com/u/97241560",
+    "longName": "Tremor",
+    "name": "tremor",
+    "repo": "https://github.com/tremorlabs/tremor",
+    "website": "https://tremor.so/"
+  },
+  {
+    "description": "",
+    "logoURL": "https://avatars.githubusercontent.com/u/108555840",
+    "longName": "Qwik UI",
+    "name": "qwik-ui",
+    "repo": "https://github.com/qwikifiers/qwik-ui",
+    "website": "https://qwikui.com/"
   }
 ]
