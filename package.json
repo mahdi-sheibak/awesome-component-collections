@@ -1,0 +1,31 @@
+{
+  "name": "awesome-component-collections",
+  "version": "0.1.0",
+  "description": "A categorized community-driven collection of amazingly awesome components.",
+  "homepage": "https://github.com/mahdi-sheibak/awesome-component-collections#readme",
+  "bugs": {
+    "url": "https://github.com/mahdi-sheibak/awesome-component-collections/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdi-sheibak/awesome-component-collections.git"
+  },
+  "license": "MIT",
+  "author": "Mahdi Sheibak",
+  "type": "module",
+  "main": "script.ts",
+  "scripts": {
+    "build": "node script.ts"
+  },
+  "dependencies": {
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "zod": "^3.24.2"
+  },
+  "volta": {
+    "node": "23.8.0",
+    "npm": "10.9.2"
+  }
+}

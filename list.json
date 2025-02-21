@@ -1,0 +1,34 @@
+[
+  {
+    "description": "Open Source UI components built with Tailwind CSS for React and Next.js.",
+    "logoURL": "https://avatars.githubusercontent.com/u/187040814",
+    "longName": "Kokonut UI",
+    "name": "kokonutui",
+    "repo": "https://github.com/kokonut-labs/kokonutui",
+    "website": "https://kokonutui.com"
+  },
+  {
+    "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+    "logoURL": "https://avatars.githubusercontent.com/u/139895814",
+    "longName": "Shadcn UI",
+    "name": "shadcn-ui",
+    "repo": "https://github.com/shadcn-ui/ui",
+    "website": "https://ui.shadcn.com/"
+  },
+  {
+    "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
+    "logoURL": "https://avatars.githubusercontent.com/u/166878038",
+    "longName": "Magic UI",
+    "name": "magicui",
+    "repo": "https://github.com/magicuidesign/magicui",
+    "website": "https://magicui.design/"
+  },
+  {
+    "description": "An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.",
+    "logoURL": "https://raw.githubusercontent.com/DavidHDev/react-bits/refs/heads/main/src/assets/logos/reactbits-gh.svg",
+    "longName": "React Bits",
+    "name": "reactbits",
+    "repo": "https://github.com/DavidHDev/react-bits",
+    "website": "https://www.reactbits.dev/"
+  }
+]
