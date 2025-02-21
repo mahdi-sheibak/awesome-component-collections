@@ -1,5 +1,6 @@
 
 <div align="center">
+	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
   <br>
  <div>
   <h2>Awesome Component Collections</h2>
@@ -257,6 +258,63 @@
          <span>9 UI [<a href="https://github.com/borabaloglu/9ui">repo</a>] (<a href="https://www.9ui.dev/">https://www.9ui.dev/</a>)</span>
          <p>
          Beautiful, customizable components built with Base UI and Tailwind CSS.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- uilayouts -->
+   <section>
+      <a href="https://github.com/ui-layouts/uilayouts">
+         <img 
+          src="https://avatars.githubusercontent.com/u/188906022" 
+          alt="uilayouts" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>UI LAYOUT [<a href="https://github.com/ui-layouts/uilayouts">repo</a>] (<a href="https://www.ui-layouts.com/">https://www.ui-layouts.com/</a>)</span>
+         <p>
+         🔥100+ Free beautifull interactive react/nextjs component based on tailwindcss, framer-motion, gsap etc
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- spark-ui -->
+   <section>
+      <a href="https://github.com/selemondev/spark-ui">
+         <img 
+          src="https://spark-ui.dev/icon.png" 
+          alt="spark-ui" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Spark UI [<a href="https://github.com/selemondev/spark-ui">repo</a>] (<a href="https://spark-ui.dev/">https://spark-ui.dev/</a>)</span>
+         <p>
+         Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- plate -->
+   <section>
+      <a href="https://github.com/udecode/plate">
+         <img 
+          src="https://avatars.githubusercontent.com/u/66228141" 
+          alt="plate" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Plate [<a href="https://github.com/udecode/plate">repo</a>] (<a href="https://platejs.org/">https://platejs.org/</a>)</span>
+         <p>
+         A rich-text editor powered by AI
          </p>
       </div>
    </section>

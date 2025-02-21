@@ -102,5 +102,29 @@
     "name": "9ui",
     "repo": "https://github.com/borabaloglu/9ui",
     "website": "https://www.9ui.dev/"
+  },
+  {
+    "description": "🔥100+ Free beautifull interactive react/nextjs component based on tailwindcss, framer-motion, gsap etc",
+    "logoURL": "https://avatars.githubusercontent.com/u/188906022",
+    "longName": "UI LAYOUT",
+    "name": "uilayouts",
+    "repo": "https://github.com/ui-layouts/uilayouts",
+    "website": "https://www.ui-layouts.com/"
+  },
+  {
+    "description": "Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨",
+    "logoURL": "https://spark-ui.dev/icon.png",
+    "longName": "Spark UI",
+    "name": "spark-ui",
+    "repo": "https://github.com/selemondev/spark-ui",
+    "website": "https://spark-ui.dev/"
+  },
+  {
+    "description": "A rich-text editor powered by AI",
+    "logoURL": "https://avatars.githubusercontent.com/u/66228141",
+    "longName": "Plate",
+    "name": "plate",
+    "repo": "https://github.com/udecode/plate",
+    "website": "https://platejs.org/"
   }
 ]
