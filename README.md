@@ -409,7 +409,7 @@
       <div>
          <span>Qwik UI [<a href="https://github.com/qwikifiers/qwik-ui">repo</a>] (<a href="https://qwikui.com/">https://qwikui.com/</a>)</span>
          <p>
-         
+         A design system of copy-paste, reusable, styled components built on top of headless. Easy to use, easy to customize.
          </p>
       </div>
    </section>
