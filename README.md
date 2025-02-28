@@ -415,3 +415,22 @@
    </section>
    <br/>
    
+<!-- inspira-ui -->
+   <section>
+      <a href="https://github.com/unovue/inspira-ui">
+         <img 
+          src="https://avatars.githubusercontent.com/u/137486839" 
+          alt="inspira-ui" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Inspira UI [<a href="https://github.com/unovue/inspira-ui">repo</a>] (<a href="https://inspira-ui.com/">https://inspira-ui.com/</a>)</span>
+         <p>
+         Build beautiful website using Vue & Nuxt.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
