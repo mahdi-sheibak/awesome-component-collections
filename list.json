@@ -166,5 +166,13 @@
     "name": "qwik-ui",
     "repo": "https://github.com/qwikifiers/qwik-ui",
     "website": "https://qwikui.com/"
+  },
+  {
+    "description": "Build beautiful website using Vue & Nuxt.",
+    "logoURL": "https://avatars.githubusercontent.com/u/137486839",
+    "longName": "Inspira UI",
+    "name": "inspira-ui",
+    "repo": "https://github.com/unovue/inspira-ui",
+    "website": "https://inspira-ui.com/"
   }
 ]
