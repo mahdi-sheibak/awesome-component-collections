@@ -434,3 +434,50 @@
    </section>
    <br/>
    
+<!-- kibo-ui -->
+   <section>
+      <a href="https://github.com/haydenbleasel/kibo">
+         <img 
+          src="https://www.kibo-ui.com/logo.svg" 
+          alt="kibo-ui" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Kibo UI [<a href="https://github.com/haydenbleasel/kibo">repo</a>] (<a href="https://www.kibo-ui.com/overview">https://www.kibo-ui.com/overview</a>)</span>
+         <p>
+         Kibo UI is a custom registry of composable, accessible and open source components designed for use with shadcn/ui.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- rosencharts -->
+   <section>
+      <a href="https://github.com/Filsommer/rosenCharts">
+         LOGO
+      </a>
+      <div>
+         <span>Rosen Charts [<a href="https://github.com/Filsommer/rosenCharts">repo</a>] (<a href="https://rosencharts.com/">https://rosencharts.com/</a>)</span>
+         <p>
+         The first fully RSC compatible, copy-pasteable charting library with support for the latest and greatest web technologies. Customize the finest of details while reducing bundle sizes and network roundtrips.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- hookcn -->
+   <section>
+      <a href="https://github.com/strlrd-29/hookcn">
+         LOGO
+      </a>
+      <div>
+         <span>hookcn [<a href="https://github.com/strlrd-29/hookcn">repo</a>] (<a href="https://hookcn.ouassim.tech/">https://hookcn.ouassim.tech/</a>)</span>
+         <p>
+         A collection of reusable react hooks that you can easily copy and paste into your apps or add directly through the shadcn CLI.
+         </p>
+      </div>
+   </section>
+   <br/>
+   

@@ -174,5 +174,29 @@
     "name": "inspira-ui",
     "repo": "https://github.com/unovue/inspira-ui",
     "website": "https://inspira-ui.com/"
+  },
+  {
+    "description": "Kibo UI is a custom registry of composable, accessible and open source components designed for use with shadcn/ui.",
+    "logoURL": "https://www.kibo-ui.com/logo.svg",
+    "longName": "Kibo UI",
+    "name": "kibo-ui",
+    "repo": "https://github.com/haydenbleasel/kibo",
+    "website": "https://www.kibo-ui.com/overview"
+  },
+  {
+    "description": "The first fully RSC compatible, copy-pasteable charting library with support for the latest and greatest web technologies. Customize the finest of details while reducing bundle sizes and network roundtrips.",
+    "--logoURL": "",
+    "longName": "Rosen Charts",
+    "name": "rosencharts",
+    "repo": "https://github.com/Filsommer/rosenCharts",
+    "website": "https://rosencharts.com/"
+  },
+  {
+    "description": "A collection of reusable react hooks that you can easily copy and paste into your apps or add directly through the shadcn CLI.",
+    "--logoURL": "",
+    "longName": "hookcn",
+    "name": "hookcn",
+    "repo": "https://github.com/strlrd-29/hookcn",
+    "website": "https://hookcn.ouassim.tech/"
   }
 ]

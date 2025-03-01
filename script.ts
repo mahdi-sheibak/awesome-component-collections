@@ -4,7 +4,7 @@ import { z } from "zod";
 const ListSchema = z.array(
   z.object({
     description: z.string(),
-    logoURL: z.string().url(),
+    logoURL: z.string().url().optional(),
     longName: z.string(),
     name: z.string(),
     repo: z.string().url(),
@@ -27,15 +27,21 @@ for (const item of list) {
 <!-- ${item.name} -->
    <section>
       <a href="${item.repo}">
-         <img 
+         ${
+           item.logoURL
+             ? `<img 
           src="${item.logoURL}" 
           alt="${item.name}" 
           width="32" 
           height="32"
-          />
+          />`
+             : "LOGO"
+         }
       </a>
       <div>
-         <span>${item.longName} [<a href="${item.repo}">repo</a>] (<a href="${item.website}">${item.website}</a>)</span>
+         <span>${item.longName} [<a href="${item.repo}">repo</a>] (<a href="${
+    item.website
+  }">${item.website}</a>)</span>
          <p>
          ${item.description}
          </p>
