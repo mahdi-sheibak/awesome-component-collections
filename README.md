@@ -481,3 +481,22 @@
    </section>
    <br/>
    
+<!-- animata -->
+   <section>
+      <a href="https://github.com/codse/animata">
+         <img 
+          src="https://github.com/user-attachments/assets/8d3da830-d1b0-4327-8695-edcea3534743" 
+          alt="animata" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Animata [<a href="https://github.com/codse/animata">repo</a>] (<a href="https://animata.design/">https://animata.design/</a>)</span>
+         <p>
+         Hand-crafted ✍️ interaction animations and effects from around the internet 🛜 to copy and paste into your project.
+         </p>
+      </div>
+   </section>
+   <br/>
+   

@@ -184,19 +184,27 @@
     "website": "https://www.kibo-ui.com/overview"
   },
   {
-    "description": "The first fully RSC compatible, copy-pasteable charting library with support for the latest and greatest web technologies. Customize the finest of details while reducing bundle sizes and network roundtrips.",
     "--logoURL": "",
+    "description": "The first fully RSC compatible, copy-pasteable charting library with support for the latest and greatest web technologies. Customize the finest of details while reducing bundle sizes and network roundtrips.",
     "longName": "Rosen Charts",
     "name": "rosencharts",
     "repo": "https://github.com/Filsommer/rosenCharts",
     "website": "https://rosencharts.com/"
   },
   {
-    "description": "A collection of reusable react hooks that you can easily copy and paste into your apps or add directly through the shadcn CLI.",
     "--logoURL": "",
+    "description": "A collection of reusable react hooks that you can easily copy and paste into your apps or add directly through the shadcn CLI.",
     "longName": "hookcn",
     "name": "hookcn",
     "repo": "https://github.com/strlrd-29/hookcn",
     "website": "https://hookcn.ouassim.tech/"
+  },
+  {
+    "description": "Hand-crafted ✍️ interaction animations and effects from around the internet 🛜 to copy and paste into your project.",
+    "logoURL": "https://github.com/user-attachments/assets/8d3da830-d1b0-4327-8695-edcea3534743",
+    "longName": "Animata",
+    "name": "animata",
+    "repo": "https://github.com/codse/animata",
+    "website": "https://animata.design/"
   }
 ]
