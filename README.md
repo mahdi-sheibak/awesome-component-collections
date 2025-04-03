@@ -485,7 +485,7 @@
    <section>
       <a href="https://github.com/codse/animata">
          <img 
-          src="https://github.com/user-attachments/assets/8d3da830-d1b0-4327-8695-edcea3534743" 
+          src="https://raw.githubusercontent.com/codse/animata/refs/heads/main/public/android-chrome-192x192.png" 
           alt="animata" 
           width="32" 
           height="32"
