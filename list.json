@@ -206,5 +206,13 @@
     "name": "animata",
     "repo": "https://github.com/codse/animata",
     "website": "https://animata.design/"
+  },
+  {
+    "description": "A growing library of fancy, fun, animated react components & microinteractions to make the web fun again. Free & Open Source.",
+    "logoURL": "https://avatars.githubusercontent.com/u/14148936",
+    "longName": "Fancy Components",
+    "name": "fancycomponents",
+    "repo": "https://github.com/danielpetho/fancy",
+    "website": "https://www.fancycomponents.dev/"
   }
 ]

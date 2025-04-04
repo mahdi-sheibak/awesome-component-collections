@@ -500,3 +500,22 @@
    </section>
    <br/>
    
+<!-- fancycomponents -->
+   <section>
+      <a href="https://github.com/danielpetho/fancy">
+         <img 
+          src="https://avatars.githubusercontent.com/u/14148936" 
+          alt="fancycomponents" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Fancy Components [<a href="https://github.com/danielpetho/fancy">repo</a>] (<a href="https://www.fancycomponents.dev/">https://www.fancycomponents.dev/</a>)</span>
+         <p>
+         A growing library of fancy, fun, animated react components & microinteractions to make the web fun again. Free & Open Source.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
