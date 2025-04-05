@@ -519,3 +519,22 @@
    </section>
    <br/>
    
+<!-- animate-ui -->
+   <section>
+      <a href="https://github.com/Skyleen77/animate-ui">
+         <img 
+          src="https://animate-ui.com/android-chrome-192x192.png" 
+          alt="animate-ui" 
+          width="32" 
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Animate UI [<a href="https://github.com/Skyleen77/animate-ui">repo</a>] (<a href="https://animate-ui.com/">https://animate-ui.com/</a>)</span>
+         <p>
+         A fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, and Motion. Design fluid interfaces, customize every detail, and bring your UIs to life without breaking a sweat.
+         </p>
+      </div>
+   </section>
+   <br/>
+   

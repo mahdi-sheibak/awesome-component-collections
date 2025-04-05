@@ -214,5 +214,13 @@
     "name": "fancycomponents",
     "repo": "https://github.com/danielpetho/fancy",
     "website": "https://www.fancycomponents.dev/"
+  },
+  {
+    "description": "A fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, and Motion. Design fluid interfaces, customize every detail, and bring your UIs to life without breaking a sweat.",
+    "logoURL": "https://animate-ui.com/android-chrome-192x192.png",
+    "longName": "Animate UI",
+    "name": "animate-ui",
+    "repo": "https://github.com/Skyleen77/animate-ui",
+    "website": "https://animate-ui.com/"
   }
 ]
