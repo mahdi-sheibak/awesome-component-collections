@@ -540,7 +540,14 @@
    
 <!-- aceternity -->
    <section>
-      <span/>
+      <a href="https://ui.aceternity.com/">
+         <img
+          src="https://ui.aceternity.com/logo.png"
+          alt="aceternity"
+          width="32"
+          height="32"
+          />
+      </a>
       <div>
          <span>Aceternity UI  (<a href="https://ui.aceternity.com/">https://ui.aceternity.com/</a>)</span>
          <p>
