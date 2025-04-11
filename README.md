@@ -19,10 +19,10 @@
 <!-- kokonutui -->
    <section>
       <a href="https://github.com/kokonut-labs/kokonutui">
-         <img 
-          src="https://avatars.githubusercontent.com/u/187040814" 
-          alt="kokonutui" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/187040814"
+          alt="kokonutui"
+          width="32"
           height="32"
           />
       </a>
@@ -38,10 +38,10 @@
 <!-- shadcn-ui -->
    <section>
       <a href="https://github.com/shadcn-ui/ui">
-         <img 
-          src="https://avatars.githubusercontent.com/u/139895814" 
-          alt="shadcn-ui" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/139895814"
+          alt="shadcn-ui"
+          width="32"
           height="32"
           />
       </a>
@@ -57,10 +57,10 @@
 <!-- magicui -->
    <section>
       <a href="https://github.com/magicuidesign/magicui">
-         <img 
-          src="https://avatars.githubusercontent.com/u/166878038" 
-          alt="magicui" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/166878038"
+          alt="magicui"
+          width="32"
           height="32"
           />
       </a>
@@ -76,10 +76,10 @@
 <!-- reactbits -->
    <section>
       <a href="https://github.com/DavidHDev/react-bits">
-         <img 
-          src="https://raw.githubusercontent.com/DavidHDev/react-bits/refs/heads/main/src/assets/logos/reactbits-gh.svg" 
-          alt="reactbits" 
-          width="32" 
+         <img
+          src="https://raw.githubusercontent.com/DavidHDev/react-bits/refs/heads/main/src/assets/logos/reactbits-gh.svg"
+          alt="reactbits"
+          width="32"
           height="32"
           />
       </a>
@@ -95,10 +95,10 @@
 <!-- shadcn-vue -->
    <section>
       <a href="https://github.com/unovue/shadcn-vue">
-         <img 
-          src="https://avatars.githubusercontent.com/u/137486839" 
-          alt="shadcn-vue" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/137486839"
+          alt="shadcn-vue"
+          width="32"
           height="32"
           />
       </a>
@@ -114,10 +114,10 @@
 <!-- shadcn-svelte -->
    <section>
       <a href="https://github.com/huntabyte/shadcn-svelte">
-         <img 
-          src="https://raw.githubusercontent.com/huntabyte/shadcn-svelte/main/sites/docs/static/android-chrome-192x192.png" 
-          alt="shadcn-svelte" 
-          width="32" 
+         <img
+          src="https://raw.githubusercontent.com/huntabyte/shadcn-svelte/main/sites/docs/static/android-chrome-192x192.png"
+          alt="shadcn-svelte"
+          width="32"
           height="32"
           />
       </a>
@@ -133,10 +133,10 @@
 <!-- motion-primitives -->
    <section>
       <a href="https://github.com/ibelick/motion-primitives">
-         <img 
-          src="https://avatars.githubusercontent.com/u/14288396" 
-          alt="motion-primitives" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/14288396"
+          alt="motion-primitives"
+          width="32"
           height="32"
           />
       </a>
@@ -152,10 +152,10 @@
 <!-- eldoraui -->
    <section>
       <a href="https://github.com/karthikmudunuri/eldoraui">
-         <img 
-          src="https://github.com/user-attachments/assets/39ad7b92-4696-44be-9079-f38ed06d80c5" 
-          alt="eldoraui" 
-          width="32" 
+         <img
+          src="https://github.com/user-attachments/assets/39ad7b92-4696-44be-9079-f38ed06d80c5"
+          alt="eldoraui"
+          width="32"
           height="32"
           />
       </a>
@@ -171,10 +171,10 @@
 <!-- jolly-ui -->
    <section>
       <a href="https://github.com/jolbol1/jolly-ui">
-         <img 
-          src="https://avatars.githubusercontent.com/u/5064896" 
-          alt="jolly-ui" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/5064896"
+          alt="jolly-ui"
+          width="32"
           height="32"
           />
       </a>
@@ -190,10 +190,10 @@
 <!-- park-ui -->
    <section>
       <a href="https://github.com/cschroeter/park-ui">
-         <img 
-          src="https://avatars.githubusercontent.com/u/1846056" 
-          alt="park-ui" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/1846056"
+          alt="park-ui"
+          width="32"
           height="32"
           />
       </a>
@@ -209,10 +209,10 @@
 <!-- draft-ui -->
    <section>
       <a href="https://github.com/IHIutch/draft-ui">
-         <img 
-          src="https://draft-ui.com/draft_ui.svg" 
-          alt="draft-ui" 
-          width="32" 
+         <img
+          src="https://draft-ui.com/draft_ui.svg"
+          alt="draft-ui"
+          width="32"
           height="32"
           />
       </a>
@@ -228,10 +228,10 @@
 <!-- justd -->
    <section>
       <a href="https://github.com/irsyadadl/justd">
-         <img 
-          src="https://getjustd.com/icon.svg" 
-          alt="justd" 
-          width="32" 
+         <img
+          src="https://getjustd.com/icon.svg"
+          alt="justd"
+          width="32"
           height="32"
           />
       </a>
@@ -247,10 +247,10 @@
 <!-- 9ui -->
    <section>
       <a href="https://github.com/borabaloglu/9ui">
-         <img 
-          src="https://raw.githubusercontent.com/borabaloglu/9ui/refs/heads/main/public/android-chrome-512x512.png" 
-          alt="9ui" 
-          width="32" 
+         <img
+          src="https://raw.githubusercontent.com/borabaloglu/9ui/refs/heads/main/public/android-chrome-512x512.png"
+          alt="9ui"
+          width="32"
           height="32"
           />
       </a>
@@ -266,10 +266,10 @@
 <!-- uilayouts -->
    <section>
       <a href="https://github.com/ui-layouts/uilayouts">
-         <img 
-          src="https://avatars.githubusercontent.com/u/188906022" 
-          alt="uilayouts" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/188906022"
+          alt="uilayouts"
+          width="32"
           height="32"
           />
       </a>
@@ -285,10 +285,10 @@
 <!-- spark-ui -->
    <section>
       <a href="https://github.com/selemondev/spark-ui">
-         <img 
-          src="https://spark-ui.dev/icon.png" 
-          alt="spark-ui" 
-          width="32" 
+         <img
+          src="https://spark-ui.dev/icon.png"
+          alt="spark-ui"
+          width="32"
           height="32"
           />
       </a>
@@ -304,10 +304,10 @@
 <!-- plate -->
    <section>
       <a href="https://github.com/udecode/plate">
-         <img 
-          src="https://avatars.githubusercontent.com/u/66228141" 
-          alt="plate" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/66228141"
+          alt="plate"
+          width="32"
           height="32"
           />
       </a>
@@ -323,10 +323,10 @@
 <!-- stunning-ui -->
    <section>
       <a href="https://github.com/xiaoluoboding/stunning-ui">
-         <img 
-          src="https://avatars.githubusercontent.com/u/6118824" 
-          alt="stunning-ui" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/6118824"
+          alt="stunning-ui"
+          width="32"
           height="32"
           />
       </a>
@@ -342,10 +342,10 @@
 <!-- nyxb ui -->
    <section>
       <a href="https://github.com/nyxb-ui">
-         <img 
-          src="https://avatars.githubusercontent.com/u/173634696" 
-          alt="nyxb ui" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/173634696"
+          alt="nyxb ui"
+          width="32"
           height="32"
           />
       </a>
@@ -361,10 +361,10 @@
 <!-- cult-ui -->
    <section>
       <a href="https://github.com/nolly-studio/cult-ui">
-         <img 
-          src="https://avatars.githubusercontent.com/u/133936441" 
-          alt="cult-ui" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/133936441"
+          alt="cult-ui"
+          width="32"
           height="32"
           />
       </a>
@@ -380,10 +380,10 @@
 <!-- tremor -->
    <section>
       <a href="https://github.com/tremorlabs/tremor">
-         <img 
-          src="https://avatars.githubusercontent.com/u/97241560" 
-          alt="tremor" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/97241560"
+          alt="tremor"
+          width="32"
           height="32"
           />
       </a>
@@ -399,10 +399,10 @@
 <!-- qwik-ui -->
    <section>
       <a href="https://github.com/qwikifiers/qwik-ui">
-         <img 
-          src="https://avatars.githubusercontent.com/u/108555840" 
-          alt="qwik-ui" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/108555840"
+          alt="qwik-ui"
+          width="32"
           height="32"
           />
       </a>
@@ -418,10 +418,10 @@
 <!-- inspira-ui -->
    <section>
       <a href="https://github.com/unovue/inspira-ui">
-         <img 
-          src="https://avatars.githubusercontent.com/u/137486839" 
-          alt="inspira-ui" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/137486839"
+          alt="inspira-ui"
+          width="32"
           height="32"
           />
       </a>
@@ -437,10 +437,10 @@
 <!-- kibo-ui -->
    <section>
       <a href="https://github.com/haydenbleasel/kibo">
-         <img 
-          src="https://www.kibo-ui.com/logo.svg" 
-          alt="kibo-ui" 
-          width="32" 
+         <img
+          src="https://www.kibo-ui.com/logo.svg"
+          alt="kibo-ui"
+          width="32"
           height="32"
           />
       </a>
@@ -484,10 +484,10 @@
 <!-- animata -->
    <section>
       <a href="https://github.com/codse/animata">
-         <img 
-          src="https://raw.githubusercontent.com/codse/animata/refs/heads/main/public/android-chrome-192x192.png" 
-          alt="animata" 
-          width="32" 
+         <img
+          src="https://raw.githubusercontent.com/codse/animata/refs/heads/main/public/android-chrome-192x192.png"
+          alt="animata"
+          width="32"
           height="32"
           />
       </a>
@@ -503,10 +503,10 @@
 <!-- fancycomponents -->
    <section>
       <a href="https://github.com/danielpetho/fancy">
-         <img 
-          src="https://avatars.githubusercontent.com/u/14148936" 
-          alt="fancycomponents" 
-          width="32" 
+         <img
+          src="https://avatars.githubusercontent.com/u/14148936"
+          alt="fancycomponents"
+          width="32"
           height="32"
           />
       </a>
@@ -522,10 +522,10 @@
 <!-- animate-ui -->
    <section>
       <a href="https://github.com/Skyleen77/animate-ui">
-         <img 
-          src="https://animate-ui.com/android-chrome-192x192.png" 
-          alt="animate-ui" 
-          width="32" 
+         <img
+          src="https://animate-ui.com/android-chrome-192x192.png"
+          alt="animate-ui"
+          width="32"
           height="32"
           />
       </a>
@@ -533,6 +533,18 @@
          <span>Animate UI [<a href="https://github.com/Skyleen77/animate-ui">repo</a>] (<a href="https://animate-ui.com/">https://animate-ui.com/</a>)</span>
          <p>
          A fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, and Motion. Design fluid interfaces, customize every detail, and bring your UIs to life without breaking a sweat.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- aceternity -->
+   <section>
+      
+      <div>
+         <span>Aceternity UI [<a href="undefined">repo</a>] (<a href="https://ui.aceternity.com/">https://ui.aceternity.com/</a>)</span>
+         <p>
+         Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
          </p>
       </div>
    </section>

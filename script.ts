@@ -7,7 +7,7 @@ const ListSchema = z.array(
     logoURL: z.string().url().optional(),
     longName: z.string(),
     name: z.string(),
-    repo: z.string().url(),
+    repo: z.string().url().optional(),
     website: z.string().url(),
   })
 );
@@ -26,18 +26,22 @@ for (const item of list) {
   finalContent += `
 <!-- ${item.name} -->
    <section>
-      <a href="${item.repo}">
+      ${
+        item.repo
+          ? `<a href="${item.repo}">
          ${
            item.logoURL
-             ? `<img 
-          src="${item.logoURL}" 
-          alt="${item.name}" 
-          width="32" 
+             ? `<img
+          src="${item.logoURL}"
+          alt="${item.name}"
+          width="32"
           height="32"
           />`
              : "LOGO"
          }
-      </a>
+      </a>`
+          : ""
+      }
       <div>
          <span>${item.longName} [<a href="${item.repo}">repo</a>] (<a href="${
     item.website

@@ -222,5 +222,13 @@
     "name": "animate-ui",
     "repo": "https://github.com/Skyleen77/animate-ui",
     "website": "https://animate-ui.com/"
+  },
+  {
+    "description": "Copy paste the most trending components and use them in your websites without having to worry about styling and animations.",
+    "logoURL": "https://ui.aceternity.com/logo.png",
+    "longName": "Aceternity UI",
+    "name": "aceternity",
+    "--repo": "",
+    "website": "https://ui.aceternity.com/"
   }
 ]
