@@ -230,5 +230,13 @@
     "name": "aceternity",
     "--repo": "",
     "website": "https://ui.aceternity.com/"
+  },
+  {
+    "description": "Core building blocks for AI apps. High-quality, accessible, and customizable components for AI interfaces.",
+    "logoURL": "https://avatars.githubusercontent.com/u/14288396",
+    "longName": "Prompt Kit",
+    "name": "prompt-kit",
+    "repo": "https://github.com/ibelick/prompt-kit",
+    "website": "https://www.prompt-kit.com/"
   }
 ]

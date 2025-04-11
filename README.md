@@ -557,3 +557,22 @@
    </section>
    <br/>
    
+<!-- prompt-kit -->
+   <section>
+      <a href="https://github.com/ibelick/prompt-kit">
+         <img
+          src="https://avatars.githubusercontent.com/u/14288396"
+          alt="prompt-kit"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Prompt Kit [<a href="https://github.com/ibelick/prompt-kit">repo</a>] (<a href="https://www.prompt-kit.com/">https://www.prompt-kit.com/</a>)</span>
+         <p>
+         Core building blocks for AI apps. High-quality, accessible, and customizable components for AI interfaces.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
