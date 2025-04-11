@@ -26,7 +26,9 @@ for (const item of list) {
   finalContent += `
 <!-- ${item.name} -->
    <section>
-      <a href="${item.repo}">
+      ${
+        item.repo
+          ? `<a href="${item.repo}">
          ${
            item.logoURL
              ? `<img
@@ -37,7 +39,9 @@ for (const item of list) {
           />`
              : "LOGO"
          }
-      </a>
+      </a>`
+          : null
+      }
       <div>
          <span>${item.longName} [<a href="${item.repo}">repo</a>] (<a href="${
     item.website
