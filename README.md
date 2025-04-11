@@ -540,9 +540,9 @@
    
 <!-- aceternity -->
    <section>
-      null
+      
       <div>
-         <span>Aceternity UI [<a href="undefined">repo</a>] (<a href="https://ui.aceternity.com/">https://ui.aceternity.com/</a>)</span>
+         <span>Aceternity UI  (<a href="https://ui.aceternity.com/">https://ui.aceternity.com/</a>)</span>
          <p>
          Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
          </p>

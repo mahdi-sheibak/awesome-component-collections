@@ -40,12 +40,12 @@ for (const item of list) {
              : "LOGO"
          }
       </a>`
-          : null
+          : ""
       }
       <div>
-         <span>${item.longName} [<a href="${item.repo}">repo</a>] (<a href="${
-    item.website
-  }">${item.website}</a>)</span>
+         <span>${item.longName} ${
+    item.repo ? `[<a href="${item.repo}">repo</a>]` : ""
+  } (<a href="${item.website}">${item.website}</a>)</span>
          <p>
          ${item.description}
          </p>
