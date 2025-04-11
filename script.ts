@@ -27,8 +27,8 @@ for (const item of list) {
 <!-- ${item.name} -->
    <section>
       ${
-        item.repo
-          ? `<a href="${item.repo}">
+        item.repo &&
+        `<a href="${item.repo}">
          ${
            item.logoURL
              ? `<img
@@ -40,7 +40,6 @@ for (const item of list) {
              : "LOGO"
          }
       </a>`
-          : ""
       }
       <div>
          <span>${item.longName} ${
