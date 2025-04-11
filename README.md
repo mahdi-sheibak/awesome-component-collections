@@ -540,7 +540,7 @@
    
 <!-- aceternity -->
    <section>
-      undefined
+      <span/>
       <div>
          <span>Aceternity UI  (<a href="https://ui.aceternity.com/">https://ui.aceternity.com/</a>)</span>
          <p>
