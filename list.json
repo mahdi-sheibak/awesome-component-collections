@@ -238,5 +238,21 @@
     "name": "prompt-kit",
     "repo": "https://github.com/ibelick/prompt-kit",
     "website": "https://www.prompt-kit.com/"
+  },
+  {
+    "description": "Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.",
+    "logoURL": "https://avatars.githubusercontent.com/u/185059885",
+    "longName": "Origin UI",
+    "name": "originui",
+    "repo": "https://github.com/origin-space/originui",
+    "website": "https://originui.com/"
+  },
+  {
+    "description": "A set of retro-designed, accessible components and a code distribution platform. Open Source. Open Code.",
+    "logoURL": "https://avatars.githubusercontent.com/u/7549148",
+    "longName": "8bitcn UI",
+    "name": "8bitcn",
+    "repo": "https://github.com/TheOrcDev/8bitcn-ui",
+    "website": "https://www.8bitcn.com/"
   }
 ]

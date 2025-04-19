@@ -576,3 +576,41 @@
    </section>
    <br/>
    
+<!-- originui -->
+   <section>
+      <a href="https://github.com/origin-space/originui">
+         <img
+          src="https://avatars.githubusercontent.com/u/185059885"
+          alt="originui"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Origin UI [<a href="https://github.com/origin-space/originui">repo</a>] (<a href="https://originui.com/">https://originui.com/</a>)</span>
+         <p>
+         Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- 8bitcn -->
+   <section>
+      <a href="https://github.com/TheOrcDev/8bitcn-ui">
+         <img
+          src="https://avatars.githubusercontent.com/u/7549148"
+          alt="8bitcn"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>8bitcn UI [<a href="https://github.com/TheOrcDev/8bitcn-ui">repo</a>] (<a href="https://www.8bitcn.com/">https://www.8bitcn.com/</a>)</span>
+         <p>
+         A set of retro-designed, accessible components and a code distribution platform. Open Source. Open Code.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
