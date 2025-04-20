@@ -614,3 +614,22 @@
    </section>
    <br/>
    
+<!-- DaisyUI -->
+   <section>
+      <a href="https://github.com/saadeghi/daisyui">
+         <img
+          src="https://avatars.githubusercontent.com/u/7342023?s=48&v=4"
+          alt="DaisyUI"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>DaisyUI [<a href="https://github.com/saadeghi/daisyui">repo</a>] (<a href="https://daisyui.com/">https://daisyui.com/</a>)</span>
+         <p>
+            The most popular, free and open-source Tailwind CSS component library!
+         </p>
+      </div>
+   </section>
+   <br/>
+   
