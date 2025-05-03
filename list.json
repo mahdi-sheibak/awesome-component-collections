@@ -254,5 +254,13 @@
     "name": "8bitcn",
     "repo": "https://github.com/TheOrcDev/8bitcn-ui",
     "website": "https://www.8bitcn.com/"
+  },
+  {
+    "description": "A collection of neobrutalism-styled Tailwind components.",
+    "logoURL": "https://avatars.githubusercontent.com/u/110829653",
+    "longName": "Neobrutalism",
+    "name": "neobrutalism",
+    "repo": "https://github.com/ekmas/neobrutalism-components",
+    "website": "https://www.neobrutalism.dev/"
   }
 ]

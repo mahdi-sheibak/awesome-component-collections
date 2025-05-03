@@ -614,3 +614,22 @@
    </section>
    <br/>
    
+<!-- neobrutalism -->
+   <section>
+      <a href="https://github.com/ekmas/neobrutalism-components">
+         <img
+          src="https://avatars.githubusercontent.com/u/110829653"
+          alt="neobrutalism"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Neobrutalism [<a href="https://github.com/ekmas/neobrutalism-components">repo</a>] (<a href="https://www.neobrutalism.dev/">https://www.neobrutalism.dev/</a>)</span>
+         <p>
+         A collection of neobrutalism-styled Tailwind components.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
