@@ -16,6 +16,25 @@
 <h1></h1>
 
 
+<!-- awesome-shadcn-ui -->
+   <section>
+      <a href="https://github.com/birobirobiro/awesome-shadcn-ui">
+         <img
+          src="https://awesome-shadcn-ui.vercel.app/logo.svg"
+          alt="awesome-shadcn-ui"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Awesome Shadcn UI [<a href="https://github.com/birobirobiro/awesome-shadcn-ui">repo</a>] (<a href="https://awesome-shadcn-ui.vercel.app/">https://awesome-shadcn-ui.vercel.app/</a>)</span>
+         <p>
+         A curated list of awesome things related to shadcn/ui.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
 <!-- kokonutui -->
    <section>
       <a href="https://github.com/kokonut-labs/kokonutui">
@@ -642,6 +661,53 @@
          <span>Artifact UI  (<a href="https://artifactui.in/">https://artifactui.in/</a>)</span>
          <p>
          Artifact UI Build sleek, modern interfaces faster than ever
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- 21st -->
+   <section>
+      <a href="https://github.com/serafimcloud/21st">
+         <img
+          src="https://raw.githubusercontent.com/serafimcloud/21st/refs/heads/main/apps/web/public/android-chrome-192x192.png"
+          alt="21st"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>21st [<a href="https://github.com/serafimcloud/21st">repo</a>] (<a href="https://21st.dev/">https://21st.dev/</a>)</span>
+         <p>
+         npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- skiper-ui -->
+   <section>
+      <a href="https://skiper-ui.com/">
+         LOGO
+      </a>
+      <div>
+         <span>Skiper UI  (<a href="https://skiper-ui.com/">https://skiper-ui.com/</a>)</span>
+         <p>
+         Components crafted for Modern Websites
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- buouui -->
+   <section>
+      <a href="https://buouui.com/">
+         LOGO
+      </a>
+      <div>
+         <span>Buou UI  (<a href="https://buouui.com/">https://buouui.com/</a>)</span>
+         <p>
+         This is a TailwindCSS UI library with components, sections, landing pages, and templates etc. Ready to Copy and Paste into your project now!
          </p>
       </div>
    </section>
