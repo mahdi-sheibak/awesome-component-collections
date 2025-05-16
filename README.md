@@ -633,3 +633,17 @@
    </section>
    <br/>
    
+<!-- artifactui -->
+   <section>
+      <a href="https://artifactui.in/">
+         LOGO
+      </a>
+      <div>
+         <span>Artifact UI  (<a href="https://artifactui.in/">https://artifactui.in/</a>)</span>
+         <p>
+         Artifact UI Build sleek, modern interfaces faster than ever
+         </p>
+      </div>
+   </section>
+   <br/>
+   

@@ -1,5 +1,13 @@
 [
   {
+    "description": "A curated list of awesome things related to shadcn/ui.",
+    "logoURL": "https://awesome-shadcn-ui.vercel.app/logo.svg",
+    "longName": "Awesome Shadcn UI",
+    "name": "awesome-shadcn-ui",
+    "repo": "https://github.com/birobirobiro/awesome-shadcn-ui",
+    "website": "https://awesome-shadcn-ui.vercel.app/"
+  },
+  {
     "description": "Open Source UI components built with Tailwind CSS for React and Next.js.",
     "logoURL": "https://avatars.githubusercontent.com/u/187040814",
     "longName": "Kokonut UI",
@@ -262,5 +270,37 @@
     "name": "neobrutalism",
     "repo": "https://github.com/ekmas/neobrutalism-components",
     "website": "https://www.neobrutalism.dev/"
+  },
+  {
+    "description": "Artifact UI Build sleek, modern interfaces faster than ever",
+    "--logoURL": "",
+    "longName": "Artifact UI",
+    "name": "artifactui",
+    "--repo": "",
+    "website": "https://artifactui.in/"
+  },
+  {
+    "description": "npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks",
+    "logoURL": "https://raw.githubusercontent.com/serafimcloud/21st/refs/heads/main/apps/web/public/android-chrome-192x192.png",
+    "longName": "21st",
+    "name": "21st",
+    "repo": "https://github.com/serafimcloud/21st",
+    "website": "https://21st.dev/"
+  },
+  {
+    "description": "Components crafted for Modern Websites",
+    "--logoURL": "",
+    "longName": "Skiper UI",
+    "name": "skiper-ui",
+    "--repo": "",
+    "website": "https://skiper-ui.com/"
+  },
+  {
+    "description": "This is a TailwindCSS UI library with components, sections, landing pages, and templates etc. Ready to Copy and Paste into your project now!",
+    "--logoURL": "",
+    "longName": "Buou UI",
+    "name": "buouui",
+    "--repo": "",
+    "website": "https://buouui.com/"
   }
 ]
