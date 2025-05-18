@@ -302,5 +302,13 @@
     "name": "buouui",
     "--repo": "",
     "website": "https://buouui.com/"
+  },
+  {
+    "description": "Open-source, copy-and-paste UI components built for Shadcn Registry with React and Tailwind CSS",
+    "logoURL": "https://reui.io/brand/logo-text-light.svg",
+    "longName": "Re UI",
+    "name": "reui",
+    "repo": "https://github.com/keenthemes/reui",
+    "website": "https://reui.io/"
   }
 ]

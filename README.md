@@ -713,3 +713,22 @@
    </section>
    <br/>
    
+<!-- reui -->
+   <section>
+      <a href="https://github.com/keenthemes/reui">
+         <img
+          src="https://reui.io/brand/logo-text-light.svg"
+          alt="reui"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Re UI [<a href="https://github.com/keenthemes/reui">repo</a>] (<a href="https://reui.io/">https://reui.io/</a>)</span>
+         <p>
+         Open-source, copy-and-paste UI components built for Shadcn Registry with React and Tailwind CSS
+         </p>
+      </div>
+   </section>
+   <br/>
+   
