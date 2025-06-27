@@ -732,3 +732,22 @@
    </section>
    <br/>
    
+<!-- smoothui -->
+   <section>
+      <a href="https://github.com/educlopez/smoothui">
+         <img
+          src="https://smoothui.dev/icon.png"
+          alt="smoothui"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Smooth UI [<a href="https://github.com/educlopez/smoothui">repo</a>] (<a href="https://smoothui.dev/">https://smoothui.dev/</a>)</span>
+         <p>
+         Highly customizable, production-ready UI blocks for building beautiful websites and apps that look and feel the way you mean it.
+         </p>
+      </div>
+   </section>
+   <br/>
+   

@@ -310,5 +310,13 @@
     "name": "reui",
     "repo": "https://github.com/keenthemes/reui",
     "website": "https://reui.io/"
+  },
+  {
+    "description": "Highly customizable, production-ready UI blocks for building beautiful websites and apps that look and feel the way you mean it.",
+    "logoURL": "https://smoothui.dev/icon.png",
+    "longName": "Smooth UI",
+    "name": "smoothui",
+    "repo": "https://github.com/educlopez/smoothui",
+    "website": "https://smoothui.dev/"
   }
 ]
