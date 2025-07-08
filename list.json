@@ -318,5 +318,13 @@
     "name": "smoothui",
     "repo": "https://github.com/educlopez/smoothui",
     "website": "https://smoothui.dev/"
+  },
+  {
+    "description": "Modern, responsive, and customizable UI components for Next.js. Copy, adapt, and personalize them.",
+    "logoURL": "https://www.hextaui.com/Logo.png",
+    "longName": "Hexta UI",
+    "name": "HextaUI",
+    "repo": "https://github.com/preetsuthar17/HextaUI",
+    "website": "https://www.hextaui.com/"
   }
 ]

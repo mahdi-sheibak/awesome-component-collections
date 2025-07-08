@@ -751,3 +751,22 @@
    </section>
    <br/>
    
+<!-- HextaUI -->
+   <section>
+      <a href="https://github.com/preetsuthar17/HextaUI">
+         <img
+          src="https://www.hextaui.com/Logo.png"
+          alt="HextaUI"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Hexta UI [<a href="https://github.com/preetsuthar17/HextaUI">repo</a>] (<a href="https://www.hextaui.com/">https://www.hextaui.com/</a>)</span>
+         <p>
+         Modern, responsive, and customizable UI components for Next.js. Copy, adapt, and personalize them.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
