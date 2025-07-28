@@ -770,3 +770,22 @@
    </section>
    <br/>
    
+<!-- animate-ui -->
+   <section>
+      <a href="https://github.com/imskyleen/animate-ui">
+         <img
+          src="https://animate-ui.com/icon-logo.png"
+          alt="animate-ui"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Animate UI [<a href="https://github.com/imskyleen/animate-ui">repo</a>] (<a href="https://animate-ui.com/">https://animate-ui.com/</a>)</span>
+         <p>
+         Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+         </p>
+      </div>
+   </section>
+   <br/>
+   

@@ -326,5 +326,13 @@
     "name": "HextaUI",
     "repo": "https://github.com/preetsuthar17/HextaUI",
     "website": "https://www.hextaui.com/"
+  },
+  {
+    "description": "Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.",
+    "logoURL": "https://animate-ui.com/icon-logo.png",
+    "longName": "Animate UI",
+    "name": "animate-ui",
+    "repo": "https://github.com/imskyleen/animate-ui",
+    "website": "https://animate-ui.com/"
   }
 ]
