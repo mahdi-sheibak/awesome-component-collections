@@ -755,7 +755,7 @@
    <section>
       <a href="https://github.com/preetsuthar17/HextaUI">
          <img
-          src="https://www.hextaui.com/Logo.png"
+          src="https://www.hextaui.com/text-logo.svg"
           alt="HextaUI"
           width="32"
           height="32"
