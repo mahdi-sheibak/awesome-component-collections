@@ -457,7 +457,7 @@
    <section>
       <a href="https://github.com/haydenbleasel/kibo">
          <img
-          src="https://www.kibo-ui.com/logo.svg"
+          src="https://raw.githubusercontent.com/shadcnblocks/kibo/refs/heads/main/apps/docs/public/logomark.svg"
           alt="kibo-ui"
           width="32"
           height="32"
@@ -688,7 +688,12 @@
 <!-- skiper-ui -->
    <section>
       <a href="https://skiper-ui.com/">
-         LOGO
+         <img
+          src="https://dqbr6kzn27lfn.cloudfront.net/logos/logo.svg"
+          alt="skiper-ui"
+          width="32"
+          height="32"
+          />
       </a>
       <div>
          <span>Skiper UI  (<a href="https://skiper-ui.com/">https://skiper-ui.com/</a>)</span>
@@ -736,7 +741,7 @@
    <section>
       <a href="https://github.com/educlopez/smoothui">
          <img
-          src="https://smoothui.dev/icon.png"
+          src="https://raw.githubusercontent.com/educlopez/smoothui/refs/heads/main/apps/docs/public/web-app-manifest-512x512.png"
           alt="smoothui"
           width="32"
           height="32"
@@ -755,7 +760,7 @@
    <section>
       <a href="https://github.com/preetsuthar17/HextaUI">
          <img
-          src="https://www.hextaui.com/text-logo.svg"
+          src="https://raw.githubusercontent.com/preetsuthar17/HextaUI/refs/heads/master/public/Logo.svg"
           alt="HextaUI"
           width="32"
           height="32"
@@ -784,6 +789,44 @@
          <span>Animate UI [<a href="https://github.com/imskyleen/animate-ui">repo</a>] (<a href="https://animate-ui.com/">https://animate-ui.com/</a>)</span>
          <p>
          Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- pure-ui -->
+   <section>
+      <a href="https://github.com/MusKRI/pure-ui">
+         <img
+          src="https://avatars.githubusercontent.com/u/96678499"
+          alt="pure-ui"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>Pure UI [<a href="https://github.com/MusKRI/pure-ui">repo</a>] (<a href="https://pure.kam-ui.com/">https://pure.kam-ui.com/</a>)</span>
+         <p>
+         A design system for building modern web applications with pure aesthetics and minimal complexity.
+         </p>
+      </div>
+   </section>
+   <br/>
+   
+<!-- elevenlabs/ui -->
+   <section>
+      <a href="https://github.com/elevenlabs/ui">
+         <img
+          src="https://avatars.githubusercontent.com/u/94471909"
+          alt="elevenlabs/ui"
+          width="32"
+          height="32"
+          />
+      </a>
+      <div>
+         <span>ElevenLabs UI [<a href="https://github.com/elevenlabs/ui">repo</a>] (<a href="https://ui.elevenlabs.io/">https://ui.elevenlabs.io/</a>)</span>
+         <p>
+         ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.
          </p>
       </div>
    </section>

@@ -185,7 +185,7 @@
   },
   {
     "description": "Kibo UI is a custom registry of composable, accessible and open source components designed for use with shadcn/ui.",
-    "logoURL": "https://www.kibo-ui.com/logo.svg",
+    "logoURL": "https://raw.githubusercontent.com/shadcnblocks/kibo/refs/heads/main/apps/docs/public/logomark.svg",
     "longName": "Kibo UI",
     "name": "kibo-ui",
     "repo": "https://github.com/haydenbleasel/kibo",
@@ -289,7 +289,7 @@
   },
   {
     "description": "Components crafted for Modern Websites",
-    "--logoURL": "",
+    "logoURL": "https://dqbr6kzn27lfn.cloudfront.net/logos/logo.svg",
     "longName": "Skiper UI",
     "name": "skiper-ui",
     "--repo": "",
@@ -313,7 +313,7 @@
   },
   {
     "description": "Highly customizable, production-ready UI blocks for building beautiful websites and apps that look and feel the way you mean it.",
-    "logoURL": "https://smoothui.dev/icon.png",
+    "logoURL": "https://raw.githubusercontent.com/educlopez/smoothui/refs/heads/main/apps/docs/public/web-app-manifest-512x512.png",
     "longName": "Smooth UI",
     "name": "smoothui",
     "repo": "https://github.com/educlopez/smoothui",
@@ -321,7 +321,7 @@
   },
   {
     "description": "Modern, responsive, and customizable UI components for Next.js. Copy, adapt, and personalize them.",
-    "logoURL": "https://www.hextaui.com/text-logo.svg",
+    "logoURL": "https://raw.githubusercontent.com/preetsuthar17/HextaUI/refs/heads/master/public/Logo.svg",
     "longName": "Hexta UI",
     "name": "HextaUI",
     "repo": "https://github.com/preetsuthar17/HextaUI",
@@ -334,5 +334,21 @@
     "name": "animate-ui",
     "repo": "https://github.com/imskyleen/animate-ui",
     "website": "https://animate-ui.com/"
+  },
+  {
+    "description": "A design system for building modern web applications with pure aesthetics and minimal complexity.",
+    "logoURL": "https://avatars.githubusercontent.com/u/96678499",
+    "longName": "Pure UI",
+    "name": "pure-ui",
+    "repo": "https://github.com/MusKRI/pure-ui",
+    "website": "https://pure.kam-ui.com/"
+  },
+  {
+    "description": "ElevenLabs UI is a component library and custom registry built on top of shadcn/ui to help you build multimodal agents faster.",
+    "logoURL": "https://avatars.githubusercontent.com/u/94471909",
+    "longName": "ElevenLabs UI",
+    "name": "elevenlabs/ui",
+    "repo": "https://github.com/elevenlabs/ui",
+    "website": "https://ui.elevenlabs.io/"
   }
 ]

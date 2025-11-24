@@ -4,11 +4,11 @@ import { z } from "zod";
 const ListSchema = z.array(
   z.object({
     description: z.string(),
-    logoURL: z.string().url().optional(),
+    logoURL: z.url().optional(),
     longName: z.string(),
     name: z.string(),
-    repo: z.string().url().optional(),
-    website: z.string().url(),
+    repo: z.url().optional(),
+    website: z.url(),
   })
 );
 
